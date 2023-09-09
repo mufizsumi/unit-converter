@@ -1,0 +1,47 @@
+
+body {
+    font-family: tahoma;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    text-transform: capitalize;
+}
+
+#container {
+    margin: 15px auto 0px auto;
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    background-color: rgb(180, 239, 117);
+    border: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+    text-transform: capitalize;
+}
+
+.input-div {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.input {
+   padding: 5px 10px;
+   margin: 10px;
+   font-size: 30px;
+   font-weight: bold;
+   width: 200px;
+   border-radius: 10px;
+   text-align: center;
+   color: rgb(224, 240, 240);
+   background-color: rgb(0, 0, 0);
+}
+
+label {
+    font-size: 20px;
+    text-transform: capitalize;
+    color: rgb(8, 8, 8);
+}
